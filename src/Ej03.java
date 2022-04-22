@@ -1,6 +1,6 @@
 
 public class Ej03 {
-
+//holas
 //	Escribir un método en Java que de una matriz numérica dada, devuelva un vector con n elementos, donde cada elemento es la moda de una fila. 
 //	Si hubiese más de una moda, se deberá utilizar la de mayor valor
 //
