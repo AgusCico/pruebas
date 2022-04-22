@@ -1,8 +1,8 @@
 
 public class Ej03 {
 //holas
-//	Escribir un mÈtodo en Java que de una matriz numÈrica dada, devuelva un vector con n elementos, donde cada elemento es la moda de una fila. 
-//	Si hubiese m·s de una moda, se deber· utilizar la de mayor valor
+//	Escribir un m√©todo en Java que de una matriz num√©rica dada, devuelva un vector con n elementos, donde cada elemento es la moda de una fila. 
+//	Si hubiese m√°s de una moda, se deber√° utilizar la de mayor valor
 //
 //	Ejemplo:
 //	Para la matriz
@@ -13,6 +13,7 @@ public class Ej03 {
 //	La salida debe ser
 //	4 -6 10
 //TRABAJANDO EN RAMA MASTER
+//TRABAJANDO DESDE LA PAGINA GIT HUB
 //AGREGANDO CAMBIO EN RAMA NUEVA
 	public static void imprimirVector(int[] vector) {
 
